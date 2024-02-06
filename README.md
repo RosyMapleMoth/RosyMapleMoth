@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web design with React and competitive programming
 - 👯 I’m looking to collaborate on weekend to week long hackathon projects
 - 🤔 I’m looking for help with breaking in to SWE roles
-- 📫 How to reach me: discord @dryocamparubicunda
+- 📫 How to reach me: email Sfs185@humboldt.edu or discord @dryocamparubicunda
